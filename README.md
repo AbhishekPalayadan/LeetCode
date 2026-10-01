@@ -10,9 +10,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekPalayadan/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AbhishekPalayadan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhishekPalayadan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AbhishekPalayadan/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AbhishekPalayadan/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekPalayadan/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
